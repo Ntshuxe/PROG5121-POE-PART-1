@@ -1,6 +1,6 @@
 # PROG5121 POE Part 1 - User Registration and Login
 
-**Student:** [Your Full Name] - [Student Number]  
+**Student:** [Maluleke Ntshuxeko Valentia] - [ST10493052]  
 **Module:** PROG5121 - Programming 1A
 
 ## Project Overview
