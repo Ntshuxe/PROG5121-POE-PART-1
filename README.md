@@ -22,7 +22,7 @@ Console-based Java application that handles user registration and login using de
 6 tests implemented in `LoginTest.java` - all passing 100% (Username, Password, Cell, Registration, Login success/fail).
 
 ## Links
-- **GitHub Repository:** [Paste your link here]
+- **GitHub Repository:** [https://github.com/Ntshuxe/PROG5121-POE-PART-1]
 - **Video Presentation (Unlisted YouTube):** [Paste your YouTube link here]
 
 ## References
@@ -33,11 +33,4 @@ GeeksforGeeks, 2023. *How to validate a phone number using regex - Java source c
 ### In-Code Attribution
 Regex logic in `Login.java` -> `checkCellPhoneNumber()` method adapted from GeeksforGeeks (2023).
 
-## Commits
-This repository contains 6+ commits as required:
-1. Initial README
-2. Added Login class
-3. Added Main registration flow
-4. Added JUnit tests
-5. Updated README with IIE references
-6. Final cleanup and typo fixes
+
