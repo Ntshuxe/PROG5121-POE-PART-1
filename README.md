@@ -1,9 +1,9 @@
-# PROG5121 POE Part 1 - User Registration and Login
+# PROG5121 POE Part 2 - User Registration and Login
 
 **Student:** Maluleke Ntshuxeko Valentia  
 **Student Number:** ST10493052  
 **Module:** PROG5121 - Programming 1A  
-**Assessment:** POE Part 1 - Registration and Login Feature
+**Assessment:** POE Part 2 - Registration and Login Feature
 
 ---
 
@@ -29,6 +29,9 @@ A console-based Java application that allows a user to register an account and t
 2. Right-click on `UserRegistration.java` and select **Run File**.
 3. Follow the prompts to enter the first name, last name, username, password, and cell phone number.
 4. Once registration succeeds, enter the same username and password to log in.
+5. Choose how many messages you want to send and enter cellphone number of recipient and message
+6. Choose if you want to send or store messages
+7. 
 
 ---
 
@@ -61,8 +64,14 @@ Holds all the validation and login logic:
 - `registerUser()` — runs all three checks and stores the user details.
 - `loginUser()` — compares entered details to the stored ones.
 - `returnLoginStatus()` — returns the correct login message.
+- 
+### 'Message.java`
+Handles all the message logic:
+- `Checks the message ID`
+- `Creates the message hash`
 
-### `LoginTest.java`
+-
+## # `LoginTest.java`
 Six JUnit 4 tests that verify:
 - Username validation (correct and incorrect).
 - Password validation (correct and incorrect).
